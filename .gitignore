@@ -16,3 +16,6 @@ checkpoints/
 .vscode/
 .idea/
 .DS_Store
+
+# Metadatos de Windows al copiar a WSL
+*:Zone.Identifier
